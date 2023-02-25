@@ -4,7 +4,7 @@ import org.apache.log4j._
 import org.apache.spark.sql._
 import org.apache.spark.sql.functions._
 
-/** Find the movies with the most ratings. */
+/** Find the log status count from apache source. */
 object StructuredlogStreaming {
 
 
